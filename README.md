@@ -1,3 +1,24 @@
+# React routing
+
+This is a test of react and routing using "react-rooter-dom".
+
+***
+
+## How to use
+
+Click the nabigation links in the bottom of the pages to navigate.
+
+***
+## About
+This app was developed with React 16 in 2020 by **Moisés Alcocer**
+under the [MIT licence](./LICENSE.txt).
+
+**@uthor website: https://www.ironwoods.es**
+
+
+***
+***
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
