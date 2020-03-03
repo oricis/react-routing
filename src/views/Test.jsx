@@ -1,7 +1,7 @@
 import React from 'react';
 import logo from './logo.svg';
 
-import { Link } from 'git -dom';
+import { Link } from 'react-router-dom';
 
 function Test() {
 
@@ -15,8 +15,7 @@ function Test() {
             </header>
 
             <div className="links">
-                <Link to="/">Home page with route "/"</Link>
-                <span> | </span>
+                <Link to="/">Home page with route "/"</Link><span> | </span>
                 <Link to="/home">Home page with route "/home"</Link>
             </div>
         </div>
