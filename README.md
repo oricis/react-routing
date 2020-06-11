@@ -1,7 +1,19 @@
 # React routing
 
-This is a test of react and routing using "react-rooter-dom".
+This is a test of react with routing.
 
+Target: dev a simple [React Router Dom](https://www.npmjs.com/package/react-router-dom) structure to deploy on *[Github Pages](https://pages.github.com/)*.
+
+![react](https://user-images.githubusercontent.com/7187599/84364607-959f1700-abd0-11ea-8ca8-ab7093162309.png)
+
+To known more email me: contacto@ironwoods.es or visit my website: https://www.ironwoods.es
+
+
+## License notice
+
+This project is **MIT Licence**.
+
+***
 ***
 
 ## How to use
